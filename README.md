@@ -30,7 +30,10 @@ End : 문장 끝으로 이동
 
 - 최고점 : 19
 
-- 나의 점수 : 
+- 나의 점수 : 27
+  
+![test2](https://user-images.githubusercontent.com/77104243/144735619-17a46dd5-98f4-422d-9cdc-a2b044f0aa8e.gif)
+
   
   
   
@@ -48,7 +51,10 @@ End : 문장 끝으로 이동
 
 - 최고점 : 34
 
-- 나의 점수 : 
+- 나의 점수 : 69
+  
+![test4](https://user-images.githubusercontent.com/77104243/144735622-05853144-d69d-4b46-bf69-d0cb5e47e493.gif)
+
   
   
   
@@ -57,4 +63,8 @@ End : 문장 끝으로 이동
 
 - 최고점 : 19
 
-- 나의 점수 : 
+- 나의 점수 : 41
+  
+![test5](https://user-images.githubusercontent.com/77104243/144735626-73476e92-1fb9-48c2-882f-19a48aebf8a9.gif)
+
+
