@@ -61,6 +61,8 @@ ZZ
 
 - 나의 점수 : 30
   
+![test3](https://user-images.githubusercontent.com/77104243/144736129-bef02bf0-47a4-4d24-b370-f0f74fb2979d.gif)
+
 
 :4 :4행으로 이동
 
