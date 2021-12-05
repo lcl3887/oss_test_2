@@ -136,7 +136,7 @@ ZZ
   
 ![test5](https://user-images.githubusercontent.com/77104243/144735626-73476e92-1fb9-48c2-882f-19a48aebf8a9.gif)
 
-G : 파일의 
+G : 파일의 첫 줄로 이동
 
 Backspace
   
