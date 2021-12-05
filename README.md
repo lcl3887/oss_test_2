@@ -24,6 +24,7 @@ End : 문장 끝으로 이동
 
 <Esc> ZZ : 저장
   
+******
   
 ## 2 simple replacements
 `$ vimgolf put 603ba26a01b4d00009c10a49`
@@ -52,7 +53,7 @@ O
   
 ZZ
   
-  
+****
   
 ## 3 Satisfy the go linter
 `$ vimgolf put 5f1063aa8361810006e73210`
@@ -83,7 +84,7 @@ O :행이 만들어지면서 insert모드로 전환
 ZZ
   
 
-  
+****
   
 ## 4 Plotting some variables in python
 `$ vimgolf put 9v0060da5177000000000209`
@@ -124,7 +125,7 @@ ZZ
 
 
   
-  
+****
   
 ## 5 Python dataclasses
 `$ vimgolf put 6013804df3308e0009368f1c`
