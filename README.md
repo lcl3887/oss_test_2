@@ -34,6 +34,23 @@ End : 문장 끝으로 이동
   
 ![test2](https://user-images.githubusercontent.com/77104243/144735619-17a46dd5-98f4-422d-9cdc-a2b044f0aa8e.gif)
 
+:4 :4행으로 이동
+  
+O : 위 행이 만들어지면서 insert모드로 전환
+  
+// C-N(Ctrl+N) TODO 입력
+  
+gg :파일의 첫 줄로 이동
+  
+:6 :6행으로 이동
+  
+O
+  
+// C-N TODO
+  
+<Esc>
+  
+ZZ
   
   
   
@@ -55,6 +72,35 @@ End : 문장 끝으로 이동
   
 ![test4](https://user-images.githubusercontent.com/77104243/144735622-05853144-d69d-4b46-bf69-d0cb5e47e493.gif)
 
+:%s/y1/abs(y1)/g :y1을 abs(y1)으로 변경
+  
+gg : 파일의 첫 줄로 이동
+  
+/1<CR> : 1검색
+  
+nnn :정방향으로 검색 반복 3번
+
+r2nr2nr2n :한글자를 2로 바꿈 3번
+  
+r3nr3nr3n : 3으로 바꿈 3번
+  
+r4nr4nr4n : 4로 바꿈 3번
+  
+gg :파일의 첫 줄로 이동
+  
+/k<CR> : k검색
+  
+n :정방향으로 한번 이동
+  
+rbn :b로 바꾸고 이동
+  
+rrn :r로 바꾸고 이동
+  
+rgn :g로 바꾸고 이동
+  
+ZZ 
+
+
   
   
   
@@ -67,4 +113,13 @@ End : 문장 끝으로 이동
   
 ![test5](https://user-images.githubusercontent.com/77104243/144735626-73476e92-1fb9-48c2-882f-19a48aebf8a9.gif)
 
+G : 파일의 
+
+Backspace
+  
+C-N으로 단어 검색 후 , 입력 을 반복
+  
+<Esc>
+   
+ZZ
 
